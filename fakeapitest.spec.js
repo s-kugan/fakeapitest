@@ -25,7 +25,7 @@ describe('Test Fake API', function() {
 
 
      /** To Run the command In Windows : set NODE_ENV=typicode&&npm test
-     * To Run the command In Linux or Mac : $ NODE_ENV=typicode mocha test/**\/*test.js
+     * To Run the command In Linux or Mac : $ NODE_ENV=typicode&&npm test
      * npm run env NODE_ENV=production
      ***/
 
