@@ -1,0 +1,28 @@
+{
+  "env": {
+    "host": "https://jsonplaceholder.typicode.com",
+    "post":{
+      "FirstPost":{
+        "title": "create new title with Post",
+        "body": "bar",
+        "userId": 1
+      },
+      "PutPost":{
+        "id": 1,
+        "title": "update the title with Put",
+        "body": "bar",
+        "userId": 1
+      },
+      "PatchPost":{
+        "title": "New Title with Patch"
+      },
+      "TestPost1":{
+        "id": 1,
+        "title": "New Title with Patch",
+        "body": "bar",
+        "userId": 1
+      }
+
+    }
+  }
+}
